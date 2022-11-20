@@ -1,12 +1,2 @@
 # asphalt_binder
-Исследование корреляции между зависимыми и независимыми переменными для измерения энергии свободной поверхности и несколькими переменными химического состава асфальтовых вяжущих. На основе данных: Вэй, Дж., Донг, Ф., Ли, Ю., и Чжан, Ю. (2014). Анализ взаимосвязи между свободной поверхностной энергией и химическим[README.md](https://github.com/Benaziz938/asphalt_binder/files/10050180/README.md)
-[asphalt_binder.csv](https://github.com/Benaziz938/asphalt_binder/files/10050182/asphalt_binder.csv)
-![corr](https://user-images.githubusercontent.com/118677552/202913845-6b2db7ed-9ab9-43a8-b469-0fefb453768d.png)
-![models](https://user-images.githubusercontent.com/118677552/202913849-02d6d757-3ae5-41a8-ba36-8596f2a703cb.png)
-![pca1](https://user-images.githubusercontent.com/118677552/202913850-206c1196-3ca2-469d-a88e-9dd3b37b5246.png)
-![pca2](https://user-images.githubusercontent.com/118677552/202913852-be746948-4dad-47ba-b01a-d7dca6759e64.png)
-![pca3](https://user-images.githubusercontent.com/118677552/202913854-c1fada0d-c96b-4f16-8921-6fb59f76b440.png)
-![pca4](https://user-images.githubusercontent.com/118677552/202913855-7edcab5a-a5e9-4942-890b-3fb8fcdb3360.png)
-[README.md](https://github.com/Benaziz938/asphalt_binder/files/10050183/README.md)
-![rel_models](https://user-images.githubusercontent.com/118677552/202913864-3ac97c41-80c2-422e-b049-1c70625ef5e5.png)
-![scatter](https://user-images.githubusercontent.com/118677552/202913871-a25c41ca-6ea9-4ee6-a279-a17b9676f10a.png)
+Correlation study between dependent and independent variables for measure of Free-Surface energy and several variables of chemical composition for asphalt binders. Based on data: Wei, J., Dong, F., Li, Y., &amp; Zhang, Y. (2014). Relationship analysis between surface free energy and chemical composition of asphalt binder. Construction and Building Materials, 71, 116–123. doi:10.1016/j.conbuildmat.2014.08.024
