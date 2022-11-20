@@ -1,2 +1,3 @@
 # asphalt_binder
-Correlation study between dependent and independent variables for measure of Free-Surface energy and several variables of chemical composition for asphalt binders. Based on data: Wei, J., Dong, F., Li, Y., &amp; Zhang, Y. (2014). Relationship analysis between surface free energy and chemical composition of asphalt binder. Construction and Building Materials, 71, 116–123. doi:10.1016/j.conbuildmat.2014.08.024
+асфальт_связующее
+Исследование корреляции между зависимыми и независимыми переменными для измерения энергии свободной поверхности и несколькими переменными химического состава асфальтовых вяжущих. На основе данных: Вэй, Дж., Донг, Ф., Ли, Ю., и Чжан, Ю. (2014). Анализ взаимосвязи между свободной поверхностной энергией и химическим составом битумного вяжущего. Строительство и строительные материалы, 71, 116–123. doi:10.1016/j.conbuildmat.2014.08.024
